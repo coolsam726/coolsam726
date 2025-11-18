@@ -43,6 +43,8 @@
 🎸 Guitar — 🎹 Piano — 🥁 Drums — 🏊 Long Swimming — 🏃 Long-Distance Running  
 
 ---
+## Support
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q81OOIHF)
 
 ##  Connect With Me
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/coolsam726)  
