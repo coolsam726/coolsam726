@@ -1,10 +1,13 @@
 # 👋 Hi, I'm Sam Maosa
 
-## 🚀 About Me
-- 🌍 Based in Nairobi, Kenya  
-- 💻 Deep into full-stack web development and business systems  
-- 🎶 Music lover — I play guitar, piano, and drums  
-- 🏊 Fond of long swimming sessions and 🏃 long-distance runs  
+**Full-Stack Engineer · Open Source Contributor · OSS Package Author**  
+🌍 Nairobi, Kenya &nbsp;|&nbsp; 🏢 Available for freelance & consulting
+
+I build production-grade web apps and business systems — from sleek frontends to robust APIs and data pipelines. My sweet spot is the **Laravel / FilamentPHP / Livewire** ecosystem, though I'm equally comfortable across Python (Django, FastAPI) and JS/TS stacks. I care deeply about clean architecture, developer experience, and shipping software that actually works.
+
+- 🔭 Currently building OSS plugins and SaaS products on top of FilamentPHP & Laravel
+- 🤝 Open to collaboration on interesting open-source projects
+- 🎸 Off the keyboard: guitar, piano, drums, long-distance running & swimming
 
 ---
 
@@ -93,6 +96,9 @@
 
 ---
 ## Support
+If my work has helped you, consider supporting me:
+
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-%23EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/coolsam726)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q81OOIHF)
 
 ##  Connect With Me
